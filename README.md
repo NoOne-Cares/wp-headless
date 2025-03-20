@@ -1,14 +1,20 @@
 
 ## Getting Started
 
-First, run the development server:
-
+Clone the repo:
 ```bash
-npm run dev
+git clone https://github.com/NoOne-Cares/wp-headless.git
+```
+Install necessary dependncies
+```bash
+npm i
 # or
-yarn dev
+pnpm i
 ```
 
-
-
-
+start the dev server
+```bash
+npm run start
+# or
+pnpm run start
+```
